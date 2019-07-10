@@ -1,2 +1,2 @@
 # Selenium---auto-test-course-on-python
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+Автоматизированное тестирование с помощью Selenium и Python
